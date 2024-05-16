@@ -1,6 +1,0 @@
-*
-!images
-!images/*
-!images/products
-!images/products/*
-!.gitignore
